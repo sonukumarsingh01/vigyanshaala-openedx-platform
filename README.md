@@ -4,7 +4,7 @@
 
 ### Marketing website, live classes and engagement features for a STEM-education organisation
 
-**Client:** VigyanShaala (client's official site: [vigyanshaala.com](https://vigyanshaala.com/)) &nbsp;·&nbsp; **Delivered by:** TitanEd &nbsp;·&nbsp; **My role:** Frontend Engineer (all frontend apps) &nbsp;·&nbsp; **Feb 2026 – Jul 2026**
+**Client:** VigyanShaala (client's official site: [vigyanshaala.com](https://vigyanshaala.com/)) &nbsp;·&nbsp; **Delivered by:** TitanEd &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd &nbsp;·&nbsp; **Feb 2026 – Jul 2026**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Open edX](https://img.shields.io/badge/Open%20edX-02262B?style=flat)
@@ -31,7 +31,7 @@ A default Open edX LMS wasn't enough. VigyanShaala needed:
 - **live classes** without sending learners to outside tools
 - **engagement and access control** that Open edX doesn't offer out of the box
 
-## ✅ What I delivered (about 145 pull requests across all their apps)
+## ✅ My contribution (about 145 pull requests across all their apps)
 
 | Area | What was built | Value for the client |
 |---|---|---|
